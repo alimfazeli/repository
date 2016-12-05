@@ -8,7 +8,7 @@ use Alimfazeli\Repositories\Console\Commands\MakeCriteriaCommand;
 use Alimfazeli\Repositories\Console\Commands\MakeRepositoryCommand;
 use Illuminate\Filesystem\Filesystem;
 use Illuminate\Filesystem\FilesystemServiceProvider;
-use Illuminate\Support\Composer;
+use Illuminate\Foundation\Composer;
 use Illuminate\Support\ServiceProvider;
 
 /**
