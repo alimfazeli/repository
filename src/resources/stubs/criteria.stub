@@ -1,7 +1,7 @@
 <?php namespace criteria_namespace;
 
-use Bosnadev\Repositories\Criteria\Criteria;
-use Bosnadev\Repositories\Contracts\RepositoryInterface as Repository;
+use Alimfazeli\Repositories\Criteria\Criteria;
+use Alimfazeli\Repositories\Contracts\RepositoryInterface as Repository;
 
 /**
  * Class criteria_class

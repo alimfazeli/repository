@@ -1,8 +1,8 @@
 <?php
 
-namespace Bosnadev\Repositories\Console\Commands;
+namespace Alimfazeli\Repositories\Console\Commands;
 
-use Bosnadev\Repositories\Console\Commands\Creators\RepositoryCreator;
+use Alimfazeli\Repositories\Console\Commands\Creators\RepositoryCreator;
 use Illuminate\Console\Command;
 use Symfony\Component\Console\Input\InputArgument;
 use Symfony\Component\Console\Input\InputOption;
@@ -10,7 +10,7 @@ use Symfony\Component\Console\Input\InputOption;
 /**
  * Class MakeRepositoryCommand
  *
- * @package Bosnadev\Repositories\Console\Commands
+ * @package Alimfazeli\Repositories\Console\Commands
  */
 class MakeRepositoryCommand extends Command
 {

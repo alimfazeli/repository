@@ -1,8 +1,8 @@
 <?php
 
-namespace Bosnadev\Repositories\Console\Commands;
+namespace Alimfazeli\Repositories\Console\Commands;
 
-use Bosnadev\Repositories\Console\Commands\Creators\CriteriaCreator;
+use Alimfazeli\Repositories\Console\Commands\Creators\CriteriaCreator;
 use Illuminate\Console\Command;
 use Symfony\Component\Console\Input\InputArgument;
 use Symfony\Component\Console\Input\InputOption;
@@ -10,7 +10,7 @@ use Symfony\Component\Console\Input\InputOption;
 /**
  * Class MakeCriteriaCommand
  *
- * @package Bosnadev\Repositories\Console\Commands
+ * @package Alimfazeli\Repositories\Console\Commands
  */
 class MakeCriteriaCommand extends Command
 {

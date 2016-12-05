@@ -1,11 +1,11 @@
 <?php
 
-namespace Bosnadev\Repositories\Providers;
+namespace Alimfazeli\Repositories\Providers;
 
-use Bosnadev\Repositories\Console\Commands\Creators\CriteriaCreator;
-use Bosnadev\Repositories\Console\Commands\Creators\RepositoryCreator;
-use Bosnadev\Repositories\Console\Commands\MakeCriteriaCommand;
-use Bosnadev\Repositories\Console\Commands\MakeRepositoryCommand;
+use Alimfazeli\Repositories\Console\Commands\Creators\CriteriaCreator;
+use Alimfazeli\Repositories\Console\Commands\Creators\RepositoryCreator;
+use Alimfazeli\Repositories\Console\Commands\MakeCriteriaCommand;
+use Alimfazeli\Repositories\Console\Commands\MakeRepositoryCommand;
 use Illuminate\Filesystem\Filesystem;
 use Illuminate\Filesystem\FilesystemServiceProvider;
 use Illuminate\Support\Composer;
@@ -14,7 +14,7 @@ use Illuminate\Support\ServiceProvider;
 /**
  * Class RepositoryProvider
  *
- * @package Bosnadev\Repositories\Providers
+ * @package Alimfazeli\Repositories\Providers
  */
 class RepositoryProvider extends ServiceProvider
 {

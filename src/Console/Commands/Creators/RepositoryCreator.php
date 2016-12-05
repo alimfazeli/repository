@@ -6,7 +6,7 @@
  * Time: 14:16
  */
 
-namespace Bosnadev\Repositories\Console\Commands\Creators;
+namespace Alimfazeli\Repositories\Console\Commands\Creators;
 
 use Doctrine\Common\Inflector\Inflector;
 use Illuminate\Support\Facades\Config;
@@ -15,7 +15,7 @@ use Illuminate\Filesystem\Filesystem;
 /**
  * Class RepositoryCreator
  *
- * @package Bosnadev\Repositories\Console\Commands\Creators
+ * @package Alimfazeli\Repositories\Console\Commands\Creators
  */
 class RepositoryCreator {
 

@@ -1,8 +1,8 @@
-<?php namespace Bosnadev\Repositories\Contracts;
+<?php namespace Alimfazeli\Repositories\Contracts;
 
 /**
  * Interface RepositoryInterface
- * @package Bosnadev\Repositories\Contracts
+ * @package Alimfazeli\Repositories\Contracts
  */
 interface RepositoryInterface {
 

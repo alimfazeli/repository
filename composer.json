@@ -1,5 +1,5 @@
 {
-    "name": "bosnadev/repositories",
+    "name": "alimfazeli/repositories",
     "description": "Laravel Repositories",
     "keywords": [
         "laravel",
@@ -23,12 +23,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Bosnadev\\Repositories\\": "src/"
+            "Alimfazeli\\Repositories\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Bosnadev\\Repositories\\Tests\\": "tests/"
+            "Alimfazeli\\Repositories\\Tests\\": "tests/"
         }
     },
     "extra": {
