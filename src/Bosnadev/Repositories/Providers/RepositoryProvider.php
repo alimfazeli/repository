@@ -2,7 +2,7 @@
 
 namespace Bosnadev\Repositories\Providers;
 
-use Illuminate\Support\Composer;
+use Illuminate\Foundation\Composer;
 use Illuminate\Filesystem\Filesystem;
 use Illuminate\Support\ServiceProvider;
 use Bosnadev\Repositories\Console\Commands\MakeCriteriaCommand;
