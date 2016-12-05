@@ -1,12 +1,12 @@
 <?php
 
-namespace Bosnadev\Repositories\Contracts;
+namespace Alimfazeli\Repositories\Contracts;
 
-use Bosnadev\Repositories\Criteria\Criteria;
+use Alimfazeli\Repositories\Criteria\Criteria;
 
 /**
  * Interface CriteriaInterface
- * @package Bosnadev\Repositories\Contracts
+ * @package Alimfazeli\Repositories\Contracts
  */
 interface CriteriaInterface {
 

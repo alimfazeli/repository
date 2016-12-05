@@ -1,10 +1,10 @@
 <?php
 
-namespace Bosnadev\Repositories\Exceptions;
+namespace Alimfazeli\Repositories\Exceptions;
 
 /**
  * Class RepositoryException
- * @package Bosnadev\Repositories\Exceptions
+ * @package Alimfazeli\Repositories\Exceptions
  */
 class RepositoryException extends \Exception
 {

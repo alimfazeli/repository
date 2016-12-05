@@ -1,6 +1,6 @@
-<?php namespace Bosnadev\Repositories\Criteria;
+<?php namespace Alimfazeli\Repositories\Criteria;
 
-use Bosnadev\Repositories\Contracts\RepositoryInterface as Repository;
+use Alimfazeli\Repositories\Contracts\RepositoryInterface as Repository;
 
 abstract class Criteria {
 
